@@ -1,0 +1,18 @@
+[
+  {
+    "question": "What is Artificial Intelligence?",
+    "answer": "Artificial Intelligence is the simulation of human intelligence by machines."
+  },
+  {
+    "question": "What is machine learning?",
+    "answer": "Machine learning is a subset of AI that allows systems to learn from data."
+  },
+  {
+    "question": "What is Python?",
+    "answer": "Python is a popular programming language for AI and data science."
+  },
+  {
+    "question": "What are neural networks?",
+    "answer": "Neural networks are a type of machine learning model inspired by the human brain."
+  }
+]
